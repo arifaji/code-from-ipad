@@ -2,6 +2,6 @@
   "name": "my-node-app",
   "version": "1.0.0",
   "dependencies": {
-
+    "mongoose": "^6.0.5"
   }
 }
